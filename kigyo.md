@@ -1,3 +1,8 @@
+---
+layout: default
+title: 5分で分かる初めての起業 (CC BY 4.0) 2022 Shunichi Arai
+---
+
 5分で分かる初めての起業 (CC BY 4.0) 2022 Shunichi Arai
 
 # なぜやるか
